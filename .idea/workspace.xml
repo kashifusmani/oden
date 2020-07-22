@@ -1,235 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ca437301-a215-434a-a13d-85ad9928c1e8" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_android_annotations_4_1_1_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_api_api_common_1_8_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_api_client_google_api_client_1_30_9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_api_client_google_api_client_jackson2_1_30_9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_api_client_google_api_client_java6_1_30_9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_api_gax_1_54_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_api_gax_grpc_1_54_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_api_gax_httpjson_0_69_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_api_grpc_grpc_google_cloud_bigtable_admin_v2_1_9_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_api_grpc_grpc_google_cloud_bigtable_v2_1_9_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_api_grpc_grpc_google_cloud_pubsub_v1_1_85_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_api_grpc_grpc_google_common_protos_1_17_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_api_grpc_proto_google_cloud_bigquerystorage_v1_0_90_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_api_grpc_proto_google_cloud_bigquerystorage_v1alpha2_0_90_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_api_grpc_proto_google_cloud_bigquerystorage_v1beta1_0_85_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_api_grpc_proto_google_cloud_bigquerystorage_v1beta2_0_90_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_api_grpc_proto_google_cloud_bigtable_admin_v2_1_9_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_api_grpc_proto_google_cloud_bigtable_v2_1_9_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_api_grpc_proto_google_cloud_datastore_v1_0_85_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_api_grpc_proto_google_cloud_pubsub_v1_1_85_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_api_grpc_proto_google_cloud_spanner_admin_database_v1_1_49_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_api_grpc_proto_google_cloud_spanner_admin_instance_v1_1_49_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_api_grpc_proto_google_cloud_spanner_v1_1_49_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_api_grpc_proto_google_common_protos_1_17_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_api_grpc_proto_google_iam_v1_0_13_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_apis_google_api_services_bigquery_v2_rev20191211_1_30_9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_apis_google_api_services_cloudresourcemanager_v1_rev20200311_1_30_9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_apis_google_api_services_healthcare_v1beta1_rev20200307_1_30_9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_apis_google_api_services_pubsub_v1_rev20200312_1_30_9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_apis_google_api_services_storage_v1_rev20200226_1_30_9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_auth_google_auth_library_credentials_0_19_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_auth_google_auth_library_oauth2_http_0_19_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_auto_value_auto_value_annotations_1_7_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_cloud_bigdataoss_gcsio_2_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_cloud_bigdataoss_util_2_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_cloud_bigtable_bigtable_client_core_1_13_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_cloud_datastore_datastore_v1_proto_client_1_6_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_cloud_google_cloud_bigquery_1_106_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_cloud_google_cloud_bigquerystorage_0_125_0_beta.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_cloud_google_cloud_bigtable_1_9_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_cloud_google_cloud_core_1_92_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_cloud_google_cloud_core_grpc_1_92_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_cloud_google_cloud_core_http_1_92_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_cloud_google_cloud_spanner_1_49_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_flogger_flogger_0_5_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_flogger_flogger_system_backend_0_5_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_flogger_google_extensions_0_5_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_25_1_jre.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_http_client_google_http_client_1_34_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_http_client_google_http_client_appengine_1_34_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_http_client_google_http_client_jackson2_1_34_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_http_client_google_http_client_protobuf_1_33_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_oauth_client_google_oauth_client_1_30_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_oauth_client_google_oauth_client_java6_1_30_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_11_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_util_3_11_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_1_13_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_dropwizard_metrics_metrics_core_3_2_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_classgraph_classgraph_4_8_65.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_all_1_27_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_alts_1_27_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_api_1_27_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_auth_1_27_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_context_1_27_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_core_1_27_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_grpclb_1_27_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_netty_1_27_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_netty_shaded_1_27_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_okhttp_1_27_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_protobuf_1_27_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_protobuf_lite_1_27_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_stub_1_27_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_testing_1_27_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_30_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_30_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_http2_4_1_42_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_http_4_1_42_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_socks_4_1_42_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_30_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_proxy_4_1_42_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_30_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_tcnative_boringssl_static_2_0_17_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_30_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_opencensus_opencensus_api_0_24_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_opencensus_opencensus_contrib_grpc_util_0_24_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_opencensus_opencensus_contrib_http_util_0_24_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_perfmark_perfmark_api_0_19_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13_beta_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_10.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_10.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_beam_beam_model_fn_execution_2_22_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_beam_beam_runners_core_construction_java_2_22_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_beam_beam_runners_java_fn_execution_2_22_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_beam_beam_runners_java_job_service_2_22_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_beam_beam_runners_portability_java_2_22_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_beam_beam_sdks_java_expansion_service_2_22_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_beam_beam_sdks_java_extensions_google_cloud_platform_core_2_22_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_beam_beam_sdks_java_extensions_protobuf_2_22_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_beam_beam_sdks_java_fn_execution_2_22_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_beam_beam_sdks_java_harness_2_22_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_beam_beam_sdks_java_io_google_cloud_platform_2_22_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_beam_beam_vendor_sdks_java_extensions_protobuf_2_22_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_12.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_5_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_qual_2_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_3_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_threeten_threetenbp_1_4_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oden.iml" beforeDir="false" afterPath="$PROJECT_DIR$/oden.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/odin/takehome/BytesCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/odin/takehome/BytesCounter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/odin/takehome/BytesCounterWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/odin/takehome/BytesCounterWindow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/odin/takehome/Common.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/odin/takehome/Common.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/odin/takehome/epa-http.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/odin/takehome/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/odin/takehome/test.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/apache/beam/examples/DebuggingWordCountTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/apache/beam/examples/MinimalWordCountTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/apache/beam/examples/WordCountTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/apache/beam/examples/complete/game/GameStatsTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/apache/beam/examples/complete/game/HourlyTeamScoreTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/apache/beam/examples/complete/game/LeaderBoardTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/apache/beam/examples/complete/game/StatefulTeamScoreTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/apache/beam/examples/complete/game/UserScoreTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/apache/beam/examples/subprocess/ExampleEchoPipelineTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/odin/takehome/BytesCounter$CountByIp$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/odin/takehome/BytesCounter$CountByIp$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/odin/takehome/BytesCounter$CountByIp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/odin/takehome/BytesCounter$CountByIp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/odin/takehome/BytesCounter$ExtractIpBytes.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/odin/takehome/BytesCounter$ExtractIpBytes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/odin/takehome/BytesCounter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/odin/takehome/BytesCounter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/odin/takehome/BytesCounterWindow$CalculateWindowsFn.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/odin/takehome/BytesCounterWindow$CalculateWindowsFn.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/odin/takehome/BytesCounterWindow$CountByIp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/odin/takehome/BytesCounterWindow$CountByIp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/odin/takehome/BytesCounterWindow$ExtractWordsFn.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/odin/takehome/BytesCounterWindow$ExtractWordsFn.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/odin/takehome/BytesCounterWindow$FormatAsTextFn.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/odin/takehome/BytesCounterWindow$FormatAsTextFn.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/odin/takehome/BytesCounterWindow.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/odin/takehome/BytesCounterWindow.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/odin/takehome/Common.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/odin/takehome/Common.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/apache/beam/examples/DebuggingWordCount$FilterTextFn.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/apache/beam/examples/DebuggingWordCount$WordCountOptions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/apache/beam/examples/DebuggingWordCount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/apache/beam/examples/MinimalWordCount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/apache/beam/examples/WindowedWordCount$AddTimestampFn.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/apache/beam/examples/WindowedWordCount$DefaultToCurrentSystemTime.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/apache/beam/examples/WindowedWordCount$DefaultToMinTimestampPlusOneHour.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/apache/beam/examples/WindowedWordCount$Options.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/apache/beam/examples/WindowedWordCount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/apache/beam/examples/WordCount$CountWords.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/apache/beam/examples/WordCount$ExtractWordsFn.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/apache/beam/examples/WordCount$FormatAsTextFn.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/apache/beam/examples/WordCount$WordCountOptions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/apache/beam/examples/WordCount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/apache/beam/examples/common/ExampleBigQueryTableOptions$BigQueryTableFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/apache/beam/examples/common/ExampleBigQueryTableOptions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/apache/beam/examples/common/ExampleOptions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/apache/beam/examples/common/ExamplePubsubTopicAndSubscriptionOptions$PubsubSubscriptionFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/apache/beam/examples/common/ExamplePubsubTopicAndSubscriptionOptions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/apache/beam/examples/common/ExamplePubsubTopicOptions$PubsubTopicFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/apache/beam/examples/common/ExamplePubsubTopicOptions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/apache/beam/examples/common/ExampleUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/apache/beam/examples/common/WriteOneFilePerWindow$PerWindowFiles.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/apache/beam/examples/common/WriteOneFilePerWindow.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/apache/beam/examples/complete/game/GameStats$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/apache/beam/examples/complete/game/GameStats$CalculateSpammyUsers$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/apache/beam/examples/complete/game/GameStats$CalculateSpammyUsers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/apache/beam/examples/complete/game/GameStats$Options.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/apache/beam/examples/complete/game/GameStats$UserSessionInfoFn.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/apache/beam/examples/complete/game/GameStats.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/apache/beam/examples/complete/game/HourlyTeamScore$Options.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/apache/beam/examples/complete/game/HourlyTeamScore.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/apache/beam/examples/complete/game/LeaderBoard$CalculateTeamScores.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/apache/beam/examples/complete/game/LeaderBoard$CalculateUserScores.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/apache/beam/examples/complete/game/LeaderBoard$Options.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/apache/beam/examples/complete/game/LeaderBoard.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/apache/beam/examples/complete/game/StatefulTeamScore$Options.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/apache/beam/examples/complete/game/StatefulTeamScore$UpdateTeamScoreFn.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/apache/beam/examples/complete/game/StatefulTeamScore.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/apache/beam/examples/complete/game/UserScore$ExtractAndSumScore.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/apache/beam/examples/complete/game/UserScore$GameActionInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/apache/beam/examples/complete/game/UserScore$Options.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/apache/beam/examples/complete/game/UserScore$ParseEventFn.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/apache/beam/examples/complete/game/UserScore.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/apache/beam/examples/complete/game/injector/Injector$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/apache/beam/examples/complete/game/injector/Injector$TeamInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/apache/beam/examples/complete/game/injector/Injector.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/apache/beam/examples/complete/game/injector/InjectorUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/apache/beam/examples/complete/game/injector/RetryHttpInitializerWrapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/apache/beam/examples/complete/game/utils/GameConstants.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/apache/beam/examples/complete/game/utils/WriteToBigQuery$BuildRowFn.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/apache/beam/examples/complete/game/utils/WriteToBigQuery$FieldFn.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/apache/beam/examples/complete/game/utils/WriteToBigQuery$FieldInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/apache/beam/examples/complete/game/utils/WriteToBigQuery.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/apache/beam/examples/complete/game/utils/WriteToText$BuildRowFn.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/apache/beam/examples/complete/game/utils/WriteToText$FieldFn.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/apache/beam/examples/complete/game/utils/WriteToText$PerWindowFiles.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/apache/beam/examples/complete/game/utils/WriteToText$WriteOneFilePerWindow.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/apache/beam/examples/complete/game/utils/WriteToText.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/apache/beam/examples/complete/game/utils/WriteWindowedToBigQuery$BuildRowFn.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/apache/beam/examples/complete/game/utils/WriteWindowedToBigQuery.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/apache/beam/examples/subprocess/ExampleEchoPipeline$EchoInputDoFn.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/apache/beam/examples/subprocess/ExampleEchoPipeline.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/apache/beam/examples/subprocess/SubProcessPipelineOptions$SubProcessConfigurationFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/apache/beam/examples/subprocess/SubProcessPipelineOptions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/apache/beam/examples/subprocess/configuration/SubProcessConfiguration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/apache/beam/examples/subprocess/kernel/SubProcessCommandLineArgs$Command.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/apache/beam/examples/subprocess/kernel/SubProcessCommandLineArgs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/apache/beam/examples/subprocess/kernel/SubProcessIOFiles.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/apache/beam/examples/subprocess/kernel/SubProcessKernel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/apache/beam/examples/subprocess/utils/CallingSubProcessUtils$Permit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/apache/beam/examples/subprocess/utils/CallingSubProcessUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/apache/beam/examples/subprocess/utils/ExecutableFile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/apache/beam/examples/subprocess/utils/FileUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/org/apache/beam/examples/DebuggingWordCountTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/org/apache/beam/examples/MinimalWordCountTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/org/apache/beam/examples/WordCountTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/org/apache/beam/examples/complete/game/GameStatsTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/org/apache/beam/examples/complete/game/HourlyTeamScoreTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/org/apache/beam/examples/complete/game/LeaderBoardTest$TestUser.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/org/apache/beam/examples/complete/game/LeaderBoardTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/org/apache/beam/examples/complete/game/StatefulTeamScoreTest$TestUser.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/org/apache/beam/examples/complete/game/StatefulTeamScoreTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/org/apache/beam/examples/complete/game/UserScoreTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/org/apache/beam/examples/subprocess/ExampleEchoPipelineTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/org/apache/beam/examples/subprocess/ExampleEchoPipelineTest$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/org/apache/beam/examples/subprocess/ExampleEchoPipelineTest$EchoInputDoFn.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/org/apache/beam/examples/subprocess/ExampleEchoPipelineTest.class" beforeDir="false" />
-    </list>
+    <list default="true" id="ca437301-a215-434a-a13d-85ad9928c1e8" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -240,14 +12,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="573">
-              <caret line="202" column="4" selection-start-line="202" selection-start-column="4" selection-end-line="202" selection-end-column="4" />
+            <state relative-caret-position="405">
+              <caret line="186" column="16" selection-start-line="186" selection-start-column="16" selection-end-line="186" selection-end-column="16" />
               <folding>
                 <element signature="n#repositories#0;n#project#0;n#!!top" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="178">
+              <caret line="114" column="79" selection-start-line="114" selection-start-column="79" selection-end-line="114" selection-end-column="79" />
             </state>
           </provider>
         </entry>
@@ -263,8 +44,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>element.</find>
-      <find>Count.</find>
       <find>word</find>
       <find>input</find>
       <find>Count</find>
@@ -293,6 +72,8 @@
       <find>140.112.68.165</find>
       <find />
       <find>pubsub.version</find>
+      <find>slf4j.version</find>
+      <find>maven-surefire-plugin.version</find>
     </findStrings>
     <replaceStrings>
       <replace>LocalDateTime</replace>
@@ -318,11 +99,11 @@
         <option value="$PROJECT_DIR$/src/main/java/odin/takehome/README.txt" />
         <option value="$PROJECT_DIR$/test-counts-00002-of-00003" />
         <option value="$PROJECT_DIR$/test-counts-00001-of-00003" />
-        <option value="$PROJECT_DIR$/README.txt" />
         <option value="$PROJECT_DIR$/src/main/java/odin/takehome/BytesCounter.java" />
         <option value="$PROJECT_DIR$/src/main/java/odin/takehome/BytesCounterWindow.java" />
         <option value="$PROJECT_DIR$/src/main/java/odin/takehome/test.txt" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/README.txt" />
       </list>
     </option>
   </component>
@@ -350,7 +131,9 @@
     <option name="width" value="1920" />
     <option name="height" value="1057" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -576,16 +359,15 @@
       <workItem from="1595262510163" duration="12132000" />
       <workItem from="1595283089831" duration="50000" />
       <workItem from="1595345380396" duration="13717000" />
-      <workItem from="1595442032336" duration="4332000" />
+      <workItem from="1595442032336" duration="4585000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30231000" />
+    <option name="totallyTimeSpent" value="30484000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1057" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -599,10 +381,10 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32977587" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.6840982" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.6840982" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23642172" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23642172" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -648,7 +430,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/odin/takehome/test.txt">
+    <entry file="file://$PROJECT_DIR$/test.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="14" selection-start-line="20" selection-end-line="20" selection-end-column="14" />
@@ -685,7 +467,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/odin/takehome/test.txt">
+    <entry file="file://$PROJECT_DIR$/test.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="14" selection-start-line="20" selection-end-line="20" selection-end-column="14" />
@@ -935,17 +717,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/odin/takehome/test.txt">
+    <entry file="file://$PROJECT_DIR$/test.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="66" lean-forward="true" selection-start-line="19" selection-start-column="66" selection-end-line="19" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="55" column="59" lean-forward="true" selection-start-line="55" selection-start-column="59" selection-end-line="55" selection-end-column="59" />
         </state>
       </provider>
     </entry>
@@ -960,11 +735,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="573">
-          <caret line="202" column="4" selection-start-line="202" selection-start-column="4" selection-end-line="202" selection-end-column="4" />
+        <state relative-caret-position="405">
+          <caret line="186" column="16" selection-start-line="186" selection-start-column="16" selection-end-line="186" selection-end-column="16" />
           <folding>
             <element signature="n#repositories#0;n#project#0;n#!!top" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="114" column="79" selection-start-line="114" selection-start-column="79" selection-end-line="114" selection-end-column="79" />
         </state>
       </provider>
     </entry>
